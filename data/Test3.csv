@@ -1,0 +1,6 @@
+﻿id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+31;Mahmut;Aslan;10.10.1986;Semra;Funda;Yakup;0(+);İşçi;Evli;;Erkek
+30;Yılmaz;Aslan;17.10.2012;;Semra;Mahmut;0(-);Öğrenci;Evli;;Erkek
+32;Yıldız;Aslan;8.06.1994;;Funda;Yakup;AB(+);Öğretmen;Dul;;Kadın
+33;İrem;Şimşek;4.04.2014;;Yıldız;Ahmet;0(-);Öğrenci;Bekar;;Kadın
+34;Berkay;Çelik;4.05.2020;;Kübra;Bekir;0(-);Terzi;Bekar;;Erkek
